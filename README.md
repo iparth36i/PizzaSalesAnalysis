@@ -57,3 +57,11 @@ Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the Rev
 => MS SQL SERVER: 19.0 SQL SERVER MANAGEMENT STUDIO-19.0.20209.0
 
 => POWER BI JUNE 2023 Version
+
+# END PRODUCT
+
+![image](https://github.com/iparth36i/PizzaSalesAnalysis/assets/74725717/d27f86a2-0daf-44ca-8c5e-8df5bdc44cc2)
+
+![image](https://github.com/iparth36i/PizzaSalesAnalysis/assets/74725717/723738c8-be00-4a10-8c85-bded5fa6002b)
+
+
